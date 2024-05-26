@@ -4,6 +4,7 @@ Linked List --->Head(latest version/commit)
 ## 1. Idea: To change your head from latest faulty to previous working one
 ```
 git reset --hard [old Commit id]
+git push -f
 ```
 
 ### Problem 
