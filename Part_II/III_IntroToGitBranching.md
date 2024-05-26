@@ -64,7 +64,7 @@ git push
 ```
 
 ### git stash
-get temporary code changes on remote without  adding new changes to remote from local
+get temporary code changes on remote without  adding new changes to remote from local"
 ```
 git stash
 git pull
